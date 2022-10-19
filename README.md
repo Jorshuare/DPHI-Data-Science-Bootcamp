@@ -10,3 +10,6 @@
 * Week 4: Model Optimization
 
 * Week 5: Strengthening Concepts and  Working on real-world dataset
+
+# Course is on 
+[dphi bootcamp](https://dphi.tech/bootcamps/5-week-data-science-bootcamp)
