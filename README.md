@@ -1,7 +1,7 @@
 # DPHI-Data-Science-Bootcamp
-* Week 0: Introduction to Data Science and Python Crash Course
+* [Week 0: Introduction to Data Science and Python Crash Course](https://github.com/Jorshuare/DPHI-Data-Science-Bootcamp/tree/main/Week%200:%20Introduction%20to%20Data%20Science%20and%20Python%20Crash%20Course)
 
-* Week 1: Data Analysis & Visualizations
+* [Week 1: Data Analysis & Visualizations](https://github.com/Jorshuare/DPHI-Data-Science-Bootcamp/tree/main/Week%201:%20Data%20Analysis%20%26%20Visualizations)
 
 * Week 2: Advanced Exploratory Data Analysis (EDA) and Data Preprocessing
 
