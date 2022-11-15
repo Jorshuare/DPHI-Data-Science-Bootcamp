@@ -5,7 +5,7 @@
 
 * [Week 2: Advanced Exploratory Data Analysis (EDA) and Data Preprocessing](https://github.com/Jorshuare/DPHI-Data-Science-Bootcamp/tree/main/Week%202:%20Advanced%20Exploratory%20Data%20Analysis%20(EDA)%20and%20Data%20Preprocessing)
 
-* Week 3: Building Machine Learning models
+* [Week 3: Building Machine Learning models](https://github.com/Jorshuare/DPHI-Data-Science-Bootcamp/tree/main/Week%203:%20Building%20Machine%20Learning%20models)
 
 * Week 4: Model Optimization
 
