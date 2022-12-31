@@ -7,9 +7,9 @@
 
 * [Week 3: Building Machine Learning models](https://github.com/Jorshuare/DPHI-Data-Science-Bootcamp/tree/main/Week%203:%20Building%20Machine%20Learning%20models)
 
-* Week 4: Model Optimization
+* [Week 4: Model Optimization](https://github.com/Jorshuare/DPHI-Data-Science-Bootcamp/tree/main/Week%204%20-%20Model%20Optimization)
 
-* Week 5: Strengthening Concepts and  Working on real-world dataset
+* [Week 5: Strengthening Concepts and  Working on real-world dataset]
 
 # Course is on 
 [dphi bootcamp](https://dphi.tech/bootcamps/5-week-data-science-bootcamp)
